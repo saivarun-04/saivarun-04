@@ -24,7 +24,7 @@
 ## 📫 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/sai-varun-gotteparthi-ba3433273
 - Email: gsaivarun623@gmail.com
-- GitHub: @saivarun-04
+- GitHub: saivarun-04
 ---
 > “Big dreams start small. Every commit counts!” 🚀
 
