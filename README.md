@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm G.Sai Varun!
 
-🎓 I'm a first-year BTech student in **Internet of Things (IoT)** at VNR VJIET.  
+🎓 I'm a second-year BTech student in **Internet of Things (IoT)** at VNR VJIET.  
 💡 I'm passionate about learning programming, building cool IoT projects, and exploring how tech can solve real-world problems
 ---
 ## 🔭 Current Focus
