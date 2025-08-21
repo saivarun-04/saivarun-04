@@ -4,14 +4,14 @@
 💡 I'm passionate about learning programming, building cool IoT projects, and exploring how tech can solve real-world problems
 ---
 ## 🔭 Current Focus
-- Learning C programming 💻
+- Learning java & python languages
 - Exploring basic electronics & Arduino
 - Understanding Git, GitHub, and version control
 - Practicing problem-solving and DSA (Data Structures & Algorithms)
 ---
 ## 🛠️ Tech I'm Learning
-- C Programming
-- Arduino & Sensors
+- Python,Java Programming
+- MySql
 - Git & GitHub
 - Basic Python (Coming soon!)
 ---
@@ -19,7 +19,6 @@
 - ✅ Create and upload my first few projects
 - 🎯 Become strong in coding and IoT
 - 🌐 Build a personal portfolio using GitHub Pages
-- 👨‍💼 Become the **General Manager at IRCTC** one day!
 ---
 ## 📫 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/sai-varun-gotteparthi-ba3433273
