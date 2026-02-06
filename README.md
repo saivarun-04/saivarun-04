@@ -7,7 +7,6 @@
 - Learning java & python languages
 - Exploring basic electronics & Arduino
 - Understanding Git, GitHub, and version control
-- Practicing problem-solving and DSA (Data Structures & Algorithms)
 ---
 ## 🛠️ Tech I'm Learning
 - Python,Java Programming
