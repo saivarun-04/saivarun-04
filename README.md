@@ -1,32 +1,83 @@
-# 👋 Hey there, I'm G.Sai Varun!
+Hi there 👋 I'm Sai Varun
 
-🎓 I'm a second-year BTech student in **Internet of Things (IoT)** at VNR VJIET.  
-💡 I'm passionate about learning programming, building cool IoT projects, and exploring how tech can solve real-world problems
----
-## 🔭 Current Focus
-- Learning java & python languages
-- Exploring basic electronics & Arduino
-- Understanding Git, GitHub, and version control
----
-## 🛠️ Tech I'm Learning
-- Python,Java Programming
-- MySql
-- Git & GitHub
-- Basic Python (Coming soon!)
----
-## 🌱 Goals
-- ✅ Create and upload my first few projects
-- 🎯 Become strong in coding and IoT
-- 🌐 Build a personal portfolio using GitHub Pages
----
-## 📫 Let's Connect!
-- LinkedIn: https://www.linkedin.com/in/sai-varun-gotteparthi-ba3433273
-- Email: gsaivarun623@gmail.com
-- GitHub: saivarun-04
----
-> “Big dreams start small. Every commit counts!” 🚀
+🎓 B.Tech Student – Internet of Things (IoT)
+📍 VNR Vignana Jyothi Institute of Engineering and Technology
 
-<!---
-saivarun-04/saivarun-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a technology enthusiast interested in building systems that combine software, hardware, and intelligent automation. My primary focus is on Data Structures & Algorithms, IoT systems, and problem solving using C programming.
+
+🚀 About Me
+
+🎓 B.Tech in Internet of Things (IoT)
+
+💻 Beginner programmer focusing on C and Data Structures
+
+🔍 Interested in embedded systems and smart technologies
+
+⚡ Passionate about solving real-world problems through technology
+
+📈 Continuously learning new tools and technologies
+
+🛠 Skills
+
+Programming
+
+C
+
+Technical Areas
+
+Data Structures & Algorithms
+
+Internet of Things (IoT)
+
+Embedded Systems
+
+Tools & Technologies
+
+Git & GitHub
+
+ESP32 Microcontroller
+
+Sensors and Embedded Hardware
+
+CAD Modeling
+
+📚 Currently Learning
+
+Advanced Data Structures & Algorithms
+
+IoT system development
+
+Software engineering practices
+
+Embedded programming
+
+📌 Projects
+Smart Bike Ignition System Using Helmet Verification
+
+A safety-focused IoT system that ensures a bike starts only when the rider properly wears a helmet.
+
+Key Concepts
+
+IoT-based safety system
+
+Sensor integration
+
+Embedded system logic
+
+🎯 Goals
+
+Short Term Goal
+
+Build strong technical expertise and secure a high-quality technology role.
+
+Long Term Goal
+
+Work in leadership roles in the technology and intelligent transport sector.
+
+📫 Connect With Me
+
+GitHub: https://github.com/saivarun-04
+
+LinkedIn: https://www.linkedin.com/in/sai-varun-gotteparthi/
+
+⭐ Always open to learning, collaboration, and building impactful technology.
