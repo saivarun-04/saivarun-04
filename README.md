@@ -1,147 +1,103 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:38bdf8&text=Sai%20Varun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Data%20Analytics%20•%20IoT&descAlignY=60"/>
+# Sai Varun Gotteparthi
 
-# Hi 👋 I'm Sai Varun
+### AI • Data Analytics • IoT
 
-### Building Real-World Solutions with AI, Data & IoT
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=CSE+(IoT)+Student+at+VNRVJIET;Agentic+AI+Developer;Data+Analytics+Enthusiast;Building+Projects+That+Matter;Always+Learning+Always+Building" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=saivarun-04&style=for-the-badge&color=blue" />
-
-<img src="https://img.shields.io/github/followers/saivarun-04?style=for-the-badge" />
+Building products, exploring ideas, and turning problems into solutions.
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-```yaml
-Name: Sai Varun
-College: VNR VJIET
-Degree: B.Tech CSE (IoT)
-Focus: Agentic AI, Data Analytics, IoT
-Learning: LangChain, Full Stack Development
-Goal: Build Products That Solve Real Problems
+I'm a B.Tech student specializing in **Internet of Things (IoT)** at **VNR VJIET**.
+
+Currently exploring the intersection of:
+
+* Agentic AI
+* Data Analytics
+* Software Development
+* IoT Systems
+
+Most of my projects revolve around solving practical problems using technology rather than building projects just for the sake of learning.
+
+---
+
+## Tech Stack
+
+```text
+Languages
+├── C
+├── Python
+└── SQL
+
+Data & AI
+├── Pandas
+├── NumPy
+└── LangChain
+
+Tools
+├── Git
+├── GitHub
+├── VS Code
+├── Oracle SQL
+└── MySQL
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## Featured Projects
 
-<div align="center">
+### 🎓 VNR Campus Connect
 
-<img src="https://skillicons.dev/icons?i=c,python,mysql,git,github,vscode&theme=dark" />
+Hyperlocal student service discovery and project collaboration platform designed for the VNRVJIET ecosystem.
 
-<br><br>
+### 🤖 Agentic AI Research Assistant
 
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+Research assistant built using LangChain and LLM workflows for information retrieval and automation.
 
-</div>
+### 🛡️ CyberGuard
 
----
+Security-focused system for phishing detection and mobile threat awareness.
 
-## 🔥 Featured Projects
+### 🏍️ SafeStart
 
-<div align="center">
+Smart helmet verification based bike ignition system using IoT concepts.
 
-| 🚀 Project                       | 💡 Description                                                        |
-| -------------------------------- | --------------------------------------------------------------------- |
-| 🎓 VNR Campus Connect            | Hyperlocal student service discovery & project collaboration platform |
-| 🤖 Agentic AI Research Assistant | AI-powered research workflow automation using LangChain               |
-| 🛡️ CyberGuard                   | Intelligent mobile security & phishing detection system               |
-| 🏍️ SafeStart                    | Smart helmet verification based ignition system                       |
-| 📊 Research Paper Trend Analysis | Oracle SQL based analytics and ETL platform                           |
+### 📊 Research Paper Trend Analysis
 
-</div>
+Data analytics platform using Oracle SQL, ETL pipelines, and visualization techniques.
 
 ---
 
-## 🏆 GitHub Trophies
+## Current Focus
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saivarun-04&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saivarun-04&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saivarun-04&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivarun-04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+* Building AI-powered applications
+* Learning advanced DSA
+* Exploring full-stack development
+* Working on campus-scale solutions
+* Improving system design skills
 
 ---
 
-## 📊 Contribution Activity
+## Philosophy
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saivarun-04&theme=tokyo-night&hide_border=true"/>
-
-</div>
+```text
+Learn → Build → Break → Improve → Repeat
+```
 
 ---
 
-## 🎯 Current Focus
+## Connect
 
-<div align="center">
+🔗 LinkedIn
+[www.linkedin.com/in/sai-varun-gotteparthi](http://www.linkedin.com/in/sai-varun-gotteparthi)
 
-🤖 Agentic AI
-
-📊 Data Analytics
-
-🌐 Full Stack Development
-
-📡 IoT Systems
-
-🧠 Data Structures & Algorithms
-
-</div>
+💻 GitHub
+github.com/saivarun-04
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sai-varun-gotteparthi/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/saivarun-04">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Personal Motto
-
-### "Learn. Build. Improve. Repeat."
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:2563eb,100:38bdf8"/>
+> "The goal isn't to know every technology. The goal is to build things that matter."
