@@ -1,103 +1,143 @@
 <div align="center">
 
-# Sai Varun Gotteparthi
+# 👋 Hey, I'm Sai Varun Gotteparthi
 
 ### AI • Data Analytics • IoT
 
-Building products, exploring ideas, and turning problems into solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real-World+Solutions;Agentic+AI+Explorer;Data+Analytics+Enthusiast;IoT+Developer;Always+Learning+Always+Building" />
+
+<br>
+
+*"Code. Build. Innovate."*
 
 </div>
 
 ---
 
-## About
+## 🚀 Quick Snapshot
 
-I'm a B.Tech student specializing in **Internet of Things (IoT)** at **VNR VJIET**.
+```yaml
+Name: Sai Varun Gotteparthi
+College: VNR Vignana Jyothi Institute of Engineering and Technology
+Degree: B.Tech CSE (IoT)
+Location: Hyderabad, India
 
-Currently exploring the intersection of:
+Focus Areas:
+  - Agentic AI
+  - Data Analytics
+  - Internet of Things
+  - Full Stack Development
 
-* Agentic AI
-* Data Analytics
-* Software Development
-* IoT Systems
-
-Most of my projects revolve around solving practical problems using technology rather than building projects just for the sake of learning.
-
----
-
-## Tech Stack
-
-```text
-Languages
-├── C
-├── Python
-└── SQL
-
-Data & AI
-├── Pandas
-├── NumPy
-└── LangChain
-
-Tools
-├── Git
-├── GitHub
-├── VS Code
-├── Oracle SQL
-└── MySQL
+Currently Building:
+  - VNR Campus Connect
 ```
 
 ---
 
-## Featured Projects
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,mysql,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎓 VNR Campus Connect
 
-Hyperlocal student service discovery and project collaboration platform designed for the VNRVJIET ecosystem.
+Hyperlocal student service discovery and project collaboration platform for the VNRVJIET ecosystem.
+
+</td>
+
+<td width="50%">
 
 ### 🤖 Agentic AI Research Assistant
 
-Research assistant built using LangChain and LLM workflows for information retrieval and automation.
+AI-powered research workflow assistant built using LangChain and LLM tools.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🛡️ CyberGuard
 
-Security-focused system for phishing detection and mobile threat awareness.
+Mobile security system focused on phishing detection and threat awareness.
+
+</td>
+
+<td width="50%">
 
 ### 🏍️ SafeStart
 
-Smart helmet verification based bike ignition system using IoT concepts.
+Smart helmet verification based bike ignition system using IoT technologies.
+
+</td>
+</tr>
+
+</table>
 
 ### 📊 Research Paper Trend Analysis
 
-Data analytics platform using Oracle SQL, ETL pipelines, and visualization techniques.
+Oracle SQL based analytics platform using ETL pipelines and visualization techniques.
 
 ---
 
-## Current Focus
+## 📈 GitHub Stats
 
-* Building AI-powered applications
-* Learning advanced DSA
-* Exploring full-stack development
-* Working on campus-scale solutions
-* Improving system design skills
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saivarun-04&show_icons=true&theme=transparent&hide_border=true" />
 
-## Philosophy
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivarun-04&layout=compact&theme=transparent&hide_border=true" />
 
-```text
-Learn → Build → Break → Improve → Repeat
-```
+</div>
 
 ---
 
-## Connect
+## 🎯 What I'm Working On
 
-🔗 LinkedIn
-[www.linkedin.com/in/sai-varun-gotteparthi](http://www.linkedin.com/in/sai-varun-gotteparthi)
-
-💻 GitHub
-github.com/saivarun-04
+* 🤖 Agentic AI Applications
+* 📊 Data Analytics Projects
+* 🌐 Full Stack Development
+* 📡 IoT-Based Smart Systems
+* 🧠 Data Structures & Algorithms
 
 ---
 
-> "The goal isn't to know every technology. The goal is to build things that matter."
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sai-varun-gotteparthi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/saivarun-04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Building Technology That Solves Real Problems
+
+</div>
