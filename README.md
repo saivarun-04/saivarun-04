@@ -1,83 +1,130 @@
-Hi there 👋 I'm Sai Varun
+<div align="center">
 
-🎓 B.Tech Student – Internet of Things (IoT)
-📍 VNR Vignana Jyothi Institute of Engineering and Technology
+# Hi 👋 I'm Sai Varun
 
-I am a technology enthusiast interested in building systems that combine software, hardware, and intelligent automation. My primary focus is on Data Structures & Algorithms, IoT systems, and problem solving using C programming.
+### AI • Data Analytics • IoT
 
-🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+(IoT)+Student+at+VNRVJIET;Agentic+AI+Developer;Data+Analytics+Enthusiast;Building+Real-World+Solutions;Always+Learning+and+Building" />
 
-🎓 B.Tech in Internet of Things (IoT)
+<br>
 
-💻 Beginner programmer focusing on C and Data Structures
+<a href="https://github.com/saivarun-04">
+<img src="https://komarev.com/ghpvc/?username=saivarun-04&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</a>
 
-🔍 Interested in embedded systems and smart technologies
+<a href="https://github.com/saivarun-04?tab=followers">
+<img src="https://img.shields.io/github/followers/saivarun-04?style=for-the-badge" />
+</a>
 
-⚡ Passionate about solving real-world problems through technology
+</div>
 
-📈 Continuously learning new tools and technologies
+---
 
-🛠 Skills
+## 🚀 About Me
 
-Programming
+🎓 CSE (IoT) Student at **VNR VJIET**
 
-C
+🤖 Exploring **Agentic AI, LangChain and LLM Applications**
 
-Technical Areas
+📊 Interested in **Data Analytics, Visualization and Intelligent Systems**
 
-Data Structures & Algorithms
+📡 Building projects that combine **AI, Software and IoT**
 
-Internet of Things (IoT)
+💡 Passionate about solving real-world problems through technology
 
-Embedded Systems
+---
 
-Tools & Technologies
+## 🛠️ Tech Stack
 
-Git & GitHub
+<div align="center">
 
-ESP32 Microcontroller
+<img src="https://skillicons.dev/icons?i=c,python,mysql,git,github,vscode&perline=6" />
 
-Sensors and Embedded Hardware
+<br><br>
 
-CAD Modeling
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
 
-📚 Currently Learning
+</div>
 
-Advanced Data Structures & Algorithms
+---
 
-IoT system development
+## 🔥 Featured Projects
 
-Software engineering practices
+### 🎓 VNR Campus Connect
 
-Embedded programming
+Hyperlocal student service discovery and project collaboration platform designed for the VNRVJIET ecosystem.
 
-📌 Projects
-Smart Bike Ignition System Using Helmet Verification
+### 🤖 Agentic AI Research Assistant
 
-A safety-focused IoT system that ensures a bike starts only when the rider properly wears a helmet.
+AI-powered research workflow assistant using LangChain, tools, and intelligent automation.
 
-Key Concepts
+### 🛡️ CyberGuard
 
-IoT-based safety system
+Smart mobile defense system for phishing detection, suspicious application monitoring, and security awareness.
 
-Sensor integration
+### 🏍️ SafeStart
 
-Embedded system logic
+Helmet verification-based smart ignition system that enhances rider safety using IoT and embedded technologies.
 
-🎯 Goals
+### 📊 Research Paper Trend Analysis
 
-Short Term Goal
+Database analytics platform leveraging Oracle SQL, ETL pipelines, and visualization techniques.
 
-Build strong technical expertise and secure a high-quality technology role.
+---
 
-Long Term Goal
+## 📈 GitHub Statistics
 
-Work in leadership roles in the technology and intelligent transport sector.
+<div align="center">
 
-📫 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saivarun-04&show_icons=true&theme=tokyonight&hide_border=true" />
 
-GitHub: https://github.com/saivarun-04
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saivarun-04&theme=tokyonight&hide_border=true" />
 
-LinkedIn: https://www.linkedin.com/in/sai-varun-gotteparthi/
+</div>
 
-⭐ Always open to learning, collaboration, and building impactful technology.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivarun-04&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+* Agentic AI & AI Agents
+* Data Analytics
+* Full Stack Development
+* IoT Systems
+* Problem Solving & DSA
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sai-varun-gotteparthi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/saivarun-04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Building today, learning every day, leading tomorrow."
+
+</div>
