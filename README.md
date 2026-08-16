@@ -97,15 +97,13 @@ Smart helmet verification based bike ignition system using IoT technologies.
 Oracle SQL based analytics platform using ETL pipelines and visualization techniques.
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saivarun-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saivarun-04&theme=github_dark" />
 
 </div>
-
 ---
 
 ## 🎯 What I'm Working On
