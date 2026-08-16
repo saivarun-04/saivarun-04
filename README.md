@@ -98,13 +98,11 @@ Oracle SQL based analytics platform using ETL pipelines and visualization techni
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saivarun-04&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivarun-04&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saivarun-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 </div>
 
